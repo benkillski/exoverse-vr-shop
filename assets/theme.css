@@ -7017,10 +7017,10 @@ hr {
     color: white;
 }
 .faq .question-label:hover{
-    background-color: #1900fa;
+    background-color: #4c00ff;
 }
 .faq .question-toggle:checked ~.question-label {
-    background-color: #1900fa;
+    background-color: #4c00ff;
 }
 .faq .question-label::after {
     content:'\276F';
